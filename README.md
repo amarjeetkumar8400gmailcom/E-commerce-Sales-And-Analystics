@@ -4,11 +4,13 @@
 This project focuses on analyzing e-commerce transactional data to uncover insights regarding sales performance, customer retention patterns, and operational efficiency. The goal is to translate raw data into actionable business insights that help optimize marketing strategy, investment planning, and customer retention metrics.
 
 ## 🔗 Live Interactive Dashboard
-👉 **[Click Here to View the Live Interactive Power BI Dashboard](YOUR_POWER_BI_PUBLISH_TO_WEB_LINK_HERE)**
+👉 **## 🔗 Interactive Dashboard
+👉 **[Download & View PBIX File](E-commerce_sales_and_analytics_5000.pbix)** 
+*(Note: Please download the `.pbix` file from this repository to interact with the full dashboard locally in Power BI Desktop.)***
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](IMage.png)
+![Dashboard Preview](IMage.PNG)
 
 ---
 
