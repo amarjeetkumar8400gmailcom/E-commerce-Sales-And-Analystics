@@ -5,7 +5,6 @@ This project focuses on analyzing e-commerce transactional data to uncover insig
 
 ## 🔗 Live Interactive Dashboard
 👉 **[Click Here to View the Live Interactive Power BI Dashboard](YOUR_POWER_BI_PUBLISH_TO_WEB_LINK_HERE)**
-
 ---
 
 ## 📸 Dashboard Preview
