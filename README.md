@@ -5,7 +5,7 @@ This project focuses on analyzing e-commerce transactional data to uncover insig
 
 ## 🔗 Live Interactive Dashboard
 👉 **## 🔗 Interactive Dashboard
-👉 **[Download & View PBIX File](E-commerce_sales_and_analytics_5000.pbix)** 
+👉 **[Download & View PBIX File](E-commerce_sales_and_analystics.pbix)** 
 *(Note: Please download the `.pbix` file from this repository to interact with the full dashboard locally in Power BI Desktop.)***
 ---
 
